@@ -1,0 +1,22 @@
+{
+  "name": "MTLocalized",
+  "version": "0.1.0",
+  "summary": "A short description of MTLocalized.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mehmet Tarhan/MTLocalized",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mehmet Tarhan": "memtarhan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mehmet Tarhan/MTLocalized.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MTLocalized/Classes/**/*"
+}

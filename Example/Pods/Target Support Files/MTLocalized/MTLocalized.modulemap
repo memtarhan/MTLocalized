@@ -1,0 +1,6 @@
+framework module MTLocalized {
+  umbrella header "MTLocalized-umbrella.h"
+
+  export *
+  module * { export * }
+}

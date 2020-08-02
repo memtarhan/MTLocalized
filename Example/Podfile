@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MTLocalized_Example' do
+  pod 'MTLocalized', :path => '../'
+
+  target 'MTLocalized_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

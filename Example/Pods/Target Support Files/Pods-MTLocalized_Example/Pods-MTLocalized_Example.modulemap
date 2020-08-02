@@ -1,0 +1,6 @@
+framework module Pods_MTLocalized_Example {
+  umbrella header "Pods-MTLocalized_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

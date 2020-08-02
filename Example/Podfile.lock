@@ -1,0 +1,16 @@
+PODS:
+  - MTLocalized (0.1.0)
+
+DEPENDENCIES:
+  - MTLocalized (from `../`)
+
+EXTERNAL SOURCES:
+  MTLocalized:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MTLocalized: 3f4cc17b170b200dd6cf5b0847a6b91370147580
+
+PODFILE CHECKSUM: a182940e424acce75f1c9868fb3342684ffb4552
+
+COCOAPODS: 1.9.3
